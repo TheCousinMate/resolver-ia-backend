@@ -1,62 +1,50 @@
+# Resolver IA (v4.1) – Proyecto de Kabir Hazbún
 
-# Resolver IA Backend
-
-Este backend proporciona servicios de análisis estratégico, búsqueda externa en tiempo real, lógica aplicada y procesamiento de archivos para el modelo Resolver IA.
-
-## 🚀 Funcionalidades
-
-- 🔍 Búsqueda en Google, Noticias y Google Scholar (vía SerpApi)
-- 📎 Subida y análisis de archivos de texto
-- 📊 Matriz de decisiones y lógica argumentativa
-- 🌐 API REST construida con FastAPI
-- 🐳 Desplegable vía Docker o Render.com
+### Descripción
+**Resolver IA** es un sistema inteligente diseñado por **Kabir Hazbún** para integración avanzada de estrategias, decisión táctica, y procesamiento cognitivo basado en psicología, teoría de juegos, probabilidad y lógica forense. El sistema cuenta con un backend robusto desplegado mediante Render + Docker y utiliza APIs externas como SerpAPI para funciones de búsqueda avanzada.
 
 ---
 
-## 📂 Estructura del proyecto
+### 🔒 Licencia y Autoría
 
-```
-resolver-ia-backend/
-│
-├── main.py                  # Backend principal
-├── serpapi_connector.py     # Módulo de conexión externa
-├── .env.example             # Variables de entorno (modelo)
-├── requirements.txt         # Dependencias
-├── Dockerfile               # Contenedor para despliegue
-└── README.md                # Este archivo
-```
+© 2025 Kabir Hazbún. **Todos los derechos reservados.**
+
+Este sistema es una **creación intelectual y técnica original**. Su estructura, arquitectura, archivos, prompts y configuraciones han sido desarrollados de forma independiente, integrando criterios de diseño exclusivo para aplicaciones de IA táctica.
+
+### ❌ Prohibiciones
+- No se permite **copiar, clonar, forkar o distribuir** este repositorio.
+- No se autoriza el uso parcial ni total del código, arquitectura ni lógica sin permiso.
+- Cualquier intento de reproducción sin autorización será considerado **violación directa** a la autoría.
 
 ---
 
-## 🔑 Variables de entorno requeridas
+### ✅ Acceso Permitido
+Este repositorio está **vinculado a servicios públicos controlados** mediante APIs, entornos protegidos y rutas cifradas.
 
-Copia `.env.example` como `.env` y completa con tus datos reales.
-
-```
-SERPAPI_KEY=TU_API_KEY
-ACCOUNT_EMAIL=tu_email@ejemplo.com
-PLAN_NAME=Cloud 8M
-TOTAL_QUOTA=100000000
-API_BASE_URL=https://serpapi.com/search
-```
+Acceso indirecto autorizado a través de:
+- **Render** (https://resolver-ia-backend.onrender.com)
+- **Interfaz GPT Custom** (privada)
+- **Cliente de Kabir Hazbún** o entornos validados
 
 ---
 
-## 🚀 Despliegue local
-
-```bash
-uvicorn main:app --reload --port 7860
-```
-
-## ☁️ Despliegue en Render
-
-1. Crea repositorio en GitHub y sube este proyecto
-2. En Render.com → Create Web Service → Conecta GitHub
-3. Usa puerto `7860`, runtime `Python 3`, start command: `python main.py`
-4. Agrega tus variables de entorno
+### 🔧 Tecnologías
+- FastAPI
+- Python 3.11
+- Docker
+- SerpAPI
+- Hugging Face
+- Langchain + RAG
 
 ---
 
-## ✍️ Autor
+### 🖕 Contacto del Autor
+**Kabir Hazbún Crovetto**  
+Email: [privado]  
+Proyecto activo bajo propiedad directa del autor
 
-Kabir Hazbún C. – 2025
+> "Resolver IA no es un script, es una extensión estratégica de conciencia operativa." — K.H.
+Santiago, Chile
+
+fecha lanzamiento repositorio: 18 Mayo 2025
+inicio desarrollo: 12 marzo 2024
