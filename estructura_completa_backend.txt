@@ -1,0 +1,273 @@
+
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git
+C:\Users\alfau\OneDrive\Documentos\resolveria\Conflictos
+C:\Users\alfau\OneDrive\Documentos\resolveria\Criptografía
+C:\Users\alfau\OneDrive\Documentos\resolveria\Datos y Probabilidad
+C:\Users\alfau\OneDrive\Documentos\resolveria\Estrategia
+C:\Users\alfau\OneDrive\Documentos\resolveria\Juegos y Toma de Decisiones
+C:\Users\alfau\OneDrive\Documentos\resolveria\Otros
+C:\Users\alfau\OneDrive\Documentos\resolveria\resolveria_backend_final_bundle
+C:\Users\alfau\OneDrive\Documentos\resolveria\Ética y Comportamiento
+C:\Users\alfau\OneDrive\Documentos\resolveria\.env
+C:\Users\alfau\OneDrive\Documentos\resolveria\.env.example
+C:\Users\alfau\OneDrive\Documentos\resolveria\.gitignore
+C:\Users\alfau\OneDrive\Documentos\resolveria\datasets_resolveria.json
+C:\Users\alfau\OneDrive\Documentos\resolveria\Dockerfile
+C:\Users\alfau\OneDrive\Documentos\resolveria\estructura_completa_backend.txt
+C:\Users\alfau\OneDrive\Documentos\resolveria\gpt_system_prompt.txt
+C:\Users\alfau\OneDrive\Documentos\resolveria\LICENSE.custom.md
+C:\Users\alfau\OneDrive\Documentos\resolveria\main.py
+C:\Users\alfau\OneDrive\Documentos\resolveria\openapi_resolver_ia_serpapi.json
+C:\Users\alfau\OneDrive\Documentos\resolveria\params_map.json
+C:\Users\alfau\OneDrive\Documentos\resolveria\procesar_archivos.py
+C:\Users\alfau\OneDrive\Documentos\resolveria\README.md
+C:\Users\alfau\OneDrive\Documentos\resolveria\README_HASH_SHA256.txt
+C:\Users\alfau\OneDrive\Documentos\resolveria\render.yaml
+C:\Users\alfau\OneDrive\Documentos\resolveria\render_deploy_bundle.zip
+ Contenido de render_deploy_bundle.zip:
+    [Error al leer ZIP: No se encuentra el tipo [System.IO.Compression.ZipFile].]
+C:\Users\alfau\OneDrive\Documentos\resolveria\requirements.txt
+C:\Users\alfau\OneDrive\Documentos\resolveria\resolveria_backend_final_bundle.zip
+ Contenido de resolveria_backend_final_bundle.zip:
+    [Error al leer ZIP: No se encuentra el tipo [System.IO.Compression.ZipFile].]
+C:\Users\alfau\OneDrive\Documentos\resolveria\resolveria_inicio.bat
+C:\Users\alfau\OneDrive\Documentos\resolveria\Resolver_IA_Backend_Deployable.zip
+ Contenido de Resolver_IA_Backend_Deployable.zip:
+    [Error al leer ZIP: No se encuentra el tipo [System.IO.Compression.ZipFile].]
+C:\Users\alfau\OneDrive\Documentos\resolveria\Resolver_IA_Backend_SerpAPI.zip
+ Contenido de Resolver_IA_Backend_SerpAPI.zip:
+    [Error al leer ZIP: No se encuentra el tipo [System.IO.Compression.ZipFile].]
+C:\Users\alfau\OneDrive\Documentos\resolveria\resolver_ia_repo_readme_bundle.zip
+ Contenido de resolver_ia_repo_readme_bundle.zip:
+    [Error al leer ZIP: No se encuentra el tipo [System.IO.Compression.ZipFile].]
+C:\Users\alfau\OneDrive\Documentos\resolveria\Resolver_IA_v4.1_KabirHazbun_Release.zip
+ Contenido de Resolver_IA_v4.1_KabirHazbun_Release.zip:
+    [Error al leer ZIP: No se encuentra el tipo [System.IO.Compression.ZipFile].]
+C:\Users\alfau\OneDrive\Documentos\resolveria\Resolver_IA_v4.1_KabirHazbun_RELEASE_BUNDLE.zip
+ Contenido de Resolver_IA_v4.1_KabirHazbun_RELEASE_BUNDLE.zip:
+    [Error al leer ZIP: No se encuentra el tipo [System.IO.Compression.ZipFile].]
+C:\Users\alfau\OneDrive\Documentos\resolveria\revisar_estructura.py
+C:\Users\alfau\OneDrive\Documentos\resolveria\serpapi_config.json
+C:\Users\alfau\OneDrive\Documentos\resolveria\serpapi_config_bundle.zip
+ Contenido de serpapi_config_bundle.zip:
+    [Error al leer ZIP: No se encuentra el tipo [System.IO.Compression.ZipFile].]
+C:\Users\alfau\OneDrive\Documentos\resolveria\serpapi_connector.py
+C:\Users\alfau\OneDrive\Documentos\resolveria\serpapi_resolver_ia.zip
+ Contenido de serpapi_resolver_ia.zip:
+    [Error al leer ZIP: No se encuentra el tipo [System.IO.Compression.ZipFile].]
+C:\Users\alfau\OneDrive\Documentos\resolveria\temp.txt
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\hooks
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\info
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\logs
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\refs
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\COMMIT_EDITMSG
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\config
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\description
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\HEAD
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\index
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\hooks\applypatch-msg.sample
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\hooks\commit-msg.sample
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\hooks\fsmonitor-watchman.sample
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\hooks\post-update.sample
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\hooks\pre-applypatch.sample
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\hooks\pre-commit.sample
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\hooks\pre-merge-commit.sample
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\hooks\pre-push.sample
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\hooks\pre-rebase.sample
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\hooks\pre-receive.sample
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\hooks\prepare-commit-msg.sample
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\hooks\push-to-checkout.sample
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\hooks\sendemail-validate.sample
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\hooks\update.sample
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\info\exclude
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\logs\refs
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\logs\HEAD
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\logs\refs\heads
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\logs\refs\remotes
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\logs\refs\heads\main
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\logs\refs\remotes\origin
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\logs\refs\remotes\origin\main
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\01
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\04
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\05
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\11
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\18
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\19
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\27
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\2c
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\2f
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\36
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\37
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\38
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\3c
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\3e
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\44
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\48
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\49
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\4a
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\4c
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\4f
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\56
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\59
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\5a
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\5f
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\66
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\67
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\69
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\6b
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\6f
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\70
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\71
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\73
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\78
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\7b
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\84
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\86
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\87
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\8f
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\92
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\93
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\96
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\97
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\9c
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\ad
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\b0
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\b3
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\b7
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\b9
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\c0
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\c3
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\cb
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\d2
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\d7
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\d8
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\de
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\e0
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\e1
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\e3
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\e4
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\e6
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\e8
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\ed
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\ef
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\f1
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\f2
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\f3
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\f4
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\f7
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\f9
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\fe
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\info
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\pack
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\01\6d4dea1274caf3b289a6152a8a75fbd4c48b42
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\04\52aa7fa25e2ca30e4cad33dce77e8a92bec502
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\05\e69cc73979dd0f2b3d8ffadc144b8f9e78d35a
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\11\825517793423fc9b42ef815f5d4b2887f34fff
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\11\f0c6816e7862ecbafd74e2b4a5f3898aa98793
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\18\92ceec3b67949e1bbc33fc3d085ebea1852ef8
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\19\c0a2b6f8d23b8bd27f7a3a071552c7472e5caa
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\27\adf49d64d1e1a3b1d3add99f0005da7d3ee853
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\2c\ea86de4f1bd5fa6ccae8ecfc348d2359a734a9
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\2f\af2a60a27926c19dcb0182a769acc928d418a5
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\36\b8b4f319f45825914c05eb58f447517b9fc794
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\37\38fd8c2f8174eb30ba20fec3afed68e4bf9ef1
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\37\d14ef69ac94b6844002e563b2ebdf7654432e7
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\38\68287ca7ebedac824e94ecf10acc0f6d64206c
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\3c\b6de58f6b93bff63dfb9860b4cd70f6be9b070
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\3e\ec38f8e277e87ae3b228371c7e9a7ddb8e8886
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\44\6e7e19d65ee0ad8a6080060b3e10db37634281
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\48\cdcf3164d9d5b82fae9711fd7e6a211e71d316
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\49\d4477df03bf8fe70d46a03f0d2e0c77f16c89c
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\4a\3fe7655f0acbc8efb49b3852815e6d3a82b49c
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\4c\9c8a1b8b512838afdcbab7449bbee5b17f2670
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\4f\a504b71343363a5e25c106ba67572715dcaf4d
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\56\05fb3bd6c7ca600d168b215b6448c483831d29
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\59\849ae0db12adaf2dfa558ac6d3a8e9fd603fff
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\5a\cd0122bdcf56c6adae95266196ec7c6d5f227c
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\5f\efb0b1bacb4945279f50c8132cfd5ed77e633d
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\66\e745039ef26d89340af9adfaecdb0c1f7f4e8f
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\67\fbb547b75fe017a53b338e7839ac0544a9e51b
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\69\3711594f79382dad4044b97c884cc6429471df
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\69\c9030763ec45b5c7ad97043dde670eb73e73bd
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\6b\fe0d39759bf0e73a33e90c22dbb6ffa075095e
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\6f\3220c870594df5384accc860a53c3b12839158
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\70\84f02547a5f065eeb8722792a82e9f12a4a714
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\71\be515b86ce03011f659554a704cdb10c926d3c
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\73\6e86af774408a0f728eccf318971c7b23f5153
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\78\5cff40b5ff2393709f6291aff6e71573ef5ab1
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\7b\9c46136760bcd5eda63cb3c2134f7f9ac09634
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\84\ac862d2accd59c924825f6439bbc92719dfb96
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\86\f36a0004c9e628189654b7ccdf8a281baf8552
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\87\bd9bbc30ecc164615503381e573d4c31fdf5c3
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\8f\3bb7f1002ada1ee8c268045658ea9481087485
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\8f\b66eb29705d839697bdab3647bdd053e1d7ba4
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\92\e627dcd77b49b6fc47775cfc9723b0240433b7
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\93\48543f3c0388d8d1d24bd86b05fd468d338205
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\96\3a057e754573ec2469a9fc6a88d40cdd69cdd1
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\97\7f36f4ad8cd6cb41334c0ffdea0b2b9f5ae1df
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\9c\2938c0fe94078616e03b3c219eb9ed24e2c073
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\ad\4a9321ae908c812e3d0e107c84327bd3892a72
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\ad\e0398333ae853bf740da042bcd7043b61d350c
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\b0\156cbf3826934d862b0dd84e4deba3ba4c50d3
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\b3\2b6d0832a574a96451d844a4b606894ddf2fe9
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\b7\04bd84d4ae5807c430a280717d343ed82b51e9
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\b9\243c95229557af11bc63601256fc71d0973bdb
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\b9\3ddb6cdf770975b412288858fb88f37c372b2e
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\c0\e6884a2fe14f31087e1dca693ea4efd84fc1d5
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\c3\7e5746498a446cc88b4a9a73b7a6bfb7e7bc8d
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\cb\50b1a134e375899f794fdb20ac6b68e57aba08
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\d2\4adafe71a00cd61f3f15c79bafbe2802dca0fa
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\d2\ea42c6ba85567bb619f8f3e98704b7f340a551
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\d7\3302a1771cc84f02a28df5dd68c7eed6b13ff1
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\d8\bf3b6777694f711a3e9ccca8537c2b35069c7b
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\de\6f251c6987f3a0706e9999c08a796c0915a97a
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\de\fa40015848f7574befc4ba9fd6f389a3258321
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\e0\1c96368732c03367cf1b57dbb8e4afd54db1e0
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\e1\7d4606f46b8ee7abe11d02962e530a7a70eba5
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\e3\f55bb40c7ec2b3f7b381bebc11ca6ab0d8e040
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\e4\451094b8aba8fd51e7540ec2380cce0ffb0272
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\e6\8669ba406af0801dfac3dd74a41caa22e3df26
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\e8\a8bc4e87e8f1a17bb7aeb4de846e20898c147f
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\ed\9af2f12e40c0b39a3ea5b00653d10d6b18c5d6
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\ef\e67ebf9e627ef0f50a9c5df90a89815ba66e7d
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\f1\d7fd9229a4534b3d54fd667db7ea123eb63e0d
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\f2\4fea4fb6c98ab8c516c070105e2e5aaa037da2
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\f3\89f1b5ca8d5d0a53d369bee201ca2fb3529700
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\f4\b2c843722695890cce7f8799d7104414862dca
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\f7\3616f6935cdbc71ddf85ca5067ab8ab09b3652
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\f9\d7427e0857f62e231a0dcb03711df55da73a0a
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\objects\fe\a19001d1c949fb5b1394c8baf8a7239efda0cf
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\refs\heads
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\refs\original
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\refs\remotes
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\refs\tags
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\refs\heads\main
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\refs\original\refs
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\refs\original\refs\heads
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\refs\original\refs\heads\main
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\refs\remotes\origin
+C:\Users\alfau\OneDrive\Documentos\resolveria\.git\refs\remotes\origin\main
+C:\Users\alfau\OneDrive\Documentos\resolveria\Conflictos\desktop.ini
+C:\Users\alfau\OneDrive\Documentos\resolveria\Conflictos\Negociacion_Conflictos_UnivIca.txt
+C:\Users\alfau\OneDrive\Documentos\resolveria\Conflictos\Resolucion_Conflictos_PsicoPractico.txt
+C:\Users\alfau\OneDrive\Documentos\resolveria\Conflictos\Tecnicas_Negociacion_Conflictos_Mirabal.txt
+C:\Users\alfau\OneDrive\Documentos\resolveria\Criptografía\Criptografia_Aplicada_LucyMedina.txt
+C:\Users\alfau\OneDrive\Documentos\resolveria\Criptografía\Criptografia_Tecnica_Mateos.txt
+C:\Users\alfau\OneDrive\Documentos\resolveria\Datos y Probabilidad\Benford_Deteccion_Fraude.txt
+C:\Users\alfau\OneDrive\Documentos\resolveria\Datos y Probabilidad\Conjuntos_Probabilidades_Didactico.txt
+C:\Users\alfau\OneDrive\Documentos\resolveria\Datos y Probabilidad\ForenseDigital_LLM_2024.txt
+C:\Users\alfau\OneDrive\Documentos\resolveria\Datos y Probabilidad\Prediccion_Riesgo_Criminal.txt
+C:\Users\alfau\OneDrive\Documentos\resolveria\Datos y Probabilidad\Probabilidad_Leyes_Baro.txt
+C:\Users\alfau\OneDrive\Documentos\resolveria\Estrategia\Estrategia_Ajedrez_Historico.txt
+C:\Users\alfau\OneDrive\Documentos\resolveria\Estrategia\Estrategia_SunTzu.txt
+C:\Users\alfau\OneDrive\Documentos\resolveria\Juegos y Toma de Decisiones\Método_TomaDecisiones_Problemas.txt
+C:\Users\alfau\OneDrive\Documentos\resolveria\Juegos y Toma de Decisiones\Teoria_Juegos_CerdaPerezJimeno.txt
+C:\Users\alfau\OneDrive\Documentos\resolveria\Otros\Caso_Estrategico_Casinos_Bogota.txt
+C:\Users\alfau\OneDrive\Documentos\resolveria\Otros\Referencia_Legal_Piracy_Privacy_Katyal.txt
+C:\Users\alfau\OneDrive\Documentos\resolveria\resolveria_backend_final_bundle\main.py
+C:\Users\alfau\OneDrive\Documentos\resolveria\resolveria_backend_final_bundle\serpapi_connector.py
+C:\Users\alfau\OneDrive\Documentos\resolveria\Ética y Comportamiento\Bioetica_Clinica_TomaDecisiones.txt
+C:\Users\alfau\OneDrive\Documentos\resolveria\Ética y Comportamiento\Etica_BigData_BoundedEthicality.txt
+C:\Users\alfau\OneDrive\Documentos\resolveria\Ética y Comportamiento\Logica_Copi_Cohen.txt
+C:\Users\alfau\OneDrive\Documentos\resolveria\Ética y Comportamiento\Urbanidad_Etica_Carreno.txt

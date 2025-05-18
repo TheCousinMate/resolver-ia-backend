@@ -44,7 +44,9 @@ Email: [privado]
 Proyecto activo bajo propiedad directa del autor
 
 > "Resolver IA no es un script, es una extensión estratégica de conciencia operativa." — K.H.
+
 Santiago, Chile
 
 fecha lanzamiento repositorio: 18 Mayo 2025
+
 inicio desarrollo: 12 marzo 2024
