@@ -1,0 +1,23 @@
+
+services:
+  - type: web
+    name: resolver-ia-backend
+    env: docker
+    plan: free
+    branch: main
+    region: oregon
+    dockerfilePath: ./Dockerfile
+    buildCommand: ""
+    startCommand: ""
+    healthCheckPath: /healthz
+    envVars:
+      - key: SERPAPI_KEY
+        value: ce574584f3bde75763f6cefac750d6320b5c6891f20cbd0d38fd22efe58a8c19
+      - key: ACCOUNT_EMAIL
+        value: khazbun@gmail.com
+      - key: PLAN_NAME
+        value: Cloud 8M
+      - key: TOTAL_QUOTA
+        value: "100000000"
+      - key: API_BASE_URL
+        value: https://serpapi.com/search
