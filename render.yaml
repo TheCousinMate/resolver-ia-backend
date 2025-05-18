@@ -1,23 +1,14 @@
-# render.yaml — generado el 18 mayo 2025
 services:
-  - type: web
-    name: resolver-ia-backend
-    runtime: docker
-    repo: https://github.com/TheCousinMate/resolver-ia-backend
-    plan: starter
-    region: oregon
-    branch: main
-    dockerContext: .
-    dockerfilePath: ./Dockerfile
-    autoDeployTrigger: commit
-    envVars:
-      - key: PORT
-        value: 10000
-      - key: HUGGINGFACE_TOKEN
-        sync: false
-      - key: API_BASE_URL
-        sync: false
-      - key: PLAN_NAME
-        sync: false
-      - key: ACCOUNT_EMAIL
-        sync: false
+- type: web
+  name: resolver-ia-backend
+  runtime: docker
+  repo: https://github.com/TheCousinMate/resolver-ia-backend
+  plan: starter
+  envVars:
+  - key: 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
+    sync: false
+  region: oregon
+  dockerContext: .
+  dockerfilePath: ./Dockerfile
+  autoDeployTrigger: commit
+version: "1"
