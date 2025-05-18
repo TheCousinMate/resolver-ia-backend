@@ -1,25 +1,14 @@
+from fastapi import FastAPI
+import httpx
+import os
 
-from fastapi import FastAPI, Query
-from serpapi_connector import buscar_google, buscar_noticias, buscar_scholar
+app = FastAPI()
 
-app = FastAPI(
-    title="Resolver IA Backend",
-    description="Conexión con SerpApi y lógica de búsqueda",
-    version="1.0.0"
-)
+API_URL = "https://api.publicapis.org/entries?category=Science&https=true"  # API pública alternativa
 
-@app.get("/healthz")
-def health_check():
-    return {"status": "ok"}
-
-@app.get("/buscar/google")
-def buscar_google_api(q: str = Query(..., description="Término de búsqueda en Google")):
-    return buscar_google(q)
-
-@app.get("/buscar/noticias")
-def buscar_noticias_api(q: str = Query(..., description="Término para noticias")):
-    return buscar_noticias(q)
-
-@app.get("/buscar/scholar")
-def buscar_scholar_api(q: str = Query(..., description="Búsqueda académica")):
-    return buscar_scholar(q)
+@app.get("/resolver-info")
+async def get_resolver_info():
+    async with httpx.AsyncClient() as client:
+        response = await client.get(API_URL)
+        data = response.json()
+        return {"message": "Resolver IA - Datos Externos", "data": data.get("entries", [])[:5]}

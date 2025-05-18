@@ -1,5 +1,5 @@
 fastapi
 uvicorn
+httpx
 python-dotenv
-google-search-results
-requests
+python-multipart
