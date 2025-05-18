@@ -1,0 +1,850 @@
+﻿MÁSTER UNIVERSITARIO EN BIOÉTICA  
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+Materia III. BIOÉTICA CLÍNICA 
+ 
+
+Asignatura III.1.: FUNDAMENTOS DE LA BIOÉTICA CLÍNICA 
+ 
+
+METODOLOGÍA DE ACTUACIÓN EN LA TOMA DE DECISIONES 
+ 
+
+Prof: Dr. Fco. José Cambra 
+ 
+
+ 
+ 
+
+ 
+ 
+OBJETIVO 
+ 
+En este capítulo analizaremos de que manera  abordar la toma de decisiones utilizando  la 
+metodología que pueda sernos más útil, describiendo diversas formas de actuación.   
+Hemos estudiado los comités de  ética asistencial, y se ha analizado el informe Belmont, 
+estudiando los principios de respeto a las personas (autonomía) , justicia y beneficencia 
+que deben ayudarnos en el análisis de las cuestiones éticas ocasionadas por la 
+experimentación con seres humanos y también aplicando estos  principios a la práctica 
+clínica y asistencial, como Beuchamp y Childress nos muestran en su texto Principles of 
+Biomedical Ethics, introduciendo además una distinción clara entre Beneficencia y No 
+maleficencia.  
+ 
+INTRODUCCIÓN 
+ 
+Las decisiones en la práctica médica  pueden ser extremadamente complejas,  se realizan 
+en condiciones de incertidumbre y en ocasiones no puede alcanzarse más que una   
+certeza razonable de lo que puede ocurrir.  
+En relación con la teoría de la decisión racional el clínico elegirá racionalmente y optará 
+por aquella opción  que tenga un mayor número de probabilidades de ser la adecuada. El 
+tomar decisiones pretendidamente racionales sin tener la certeza absoluta e incluso con 
+un elevado coeficiente de incertidumbre supondrá una carga importante para los clínicos.  
+Es fundamental tener en cuenta el hecho de que actualmente las decisiones deben 
+tomarse en un clima de ética y cosmovisiones plurales. 
+ 
+Algunas personas creen que, dado el clima moral actual, no es posible alcanzar ningún 
+acuerdo sobre lo que está bien y lo que está mal y consideran que el subjetivismo y el 
+relativismo moral son inevitables. Lo que se percibe en la práctica es que, aunque las 
+opiniones teóricas sean diferentes, e incluso parezcan incompatibles, es posible que 
+personas de buena voluntad lleguen a acuerdos sobre lo que está bien en una situación 
+determinada. De hecho, la mayoría de médicos puede llegar a acuerdos, en la mayor 
+parte de situaciones clínicas. 
+
+-1- 
+
+
+
+ 
+También es preciso tener en cuenta que, aunque exista un amplio acuerdo, en cuanto a 
+principios morales, la aplicación de estos principios a un caso concreto, es una tarea difícil 
+y delicada, y aún lo es más determinar cuál es el prioritario, cuando en una situación 
+pueden aplicarse dos o más de ellos.  
+ 
+En estas situaciones el método aplicado en la decisión ética es de gran ayuda.  
+Método del griego <Methodos= (camino, ruta) significa realizar o actuar con orden y 
+hacerlo de forma correcta.  
+Todos los médicos conocen y aplican el método de organización de la información en la 
+historia clínica: síntomas, signos, antecedentes, exploración, pruebas complementarias… 
+que conducen a un diagnóstico y a la elección justificada de un tratamiento.  
+ 
+¿Podemos utilizar una metodología de manera similar, para abordar los problemas éticos 
+que plantea el cuidado del paciente? Los problemas morales pueden valorarse con 
+método y con la misma habilidad que los problemas médicos, en este capítulo vamos a 
+comentar diversos métodos encaminados a tomar la decisión moralmente más adecuada.  
+Debemos pensar, deliberar y posteriormente decidir en aquellos problemas morales que 
+se presentan en nuestro que hacer profesional 
+ 
+DELIBERACIÓN 
+ 
+La deliberación constituye el método de análisis de los problemas morales. Permitirá la 
+realización de juicios razonables sobre las acciones a realizar. La deliberación consiste en 
+valorar todos los puntos de vista a favor y en contra de algo, y al final conseguir 
+argumentar y sustentar una elección.  
+La prudencia,  en su concepción griega <phrónesis=, se refiere a la virtud que permite 
+discernir entre lo bueno y lo malo. Permite tomar decisiones razonables en condiciones de 
+incertidumbre, las decisiones prudentes emanan del proceso deliberativo y su aspiración 
+última no es la de ser ciertas pero si  razonables. Esto explica que varias personas 
+puedan elegir de manera distinta ante diversos problemas morales, siendo todas las 
+decisiones prudentes. 
+ 
+ 
+FACTORES IMPORTANTES EN LA TOMA DE DECISIONES  
+ 
+Un factor fundamental lo constituye la actitud de la persona que ha de tomar las 
+decisiones. El método proporciona el marco para tomar decisiones que garanticen que se 
+tengan en cuenta los datos pertinentes y que se tomen las decisiones tras la reflexión 
+debida. Generalmente puede evitar los errores más graves pero no garantiza la 
+infalibilidad. La autoridad del método se basa en las decisiones razonadas y respetuosas 
+que se obtienen al utilizarlo. 
+ 
+Pre-requisitos  
+ 
+Al explicar el método de análisis de casos en comités de ética, el Dr. F. Abel nos hablaba 
+de los pre-requisitos necesarios para abordar correctamente la decisión ética. Estas 
+condiciones, imprescindibles antes de comenzar el análisis ético de un problema clínico, 
+son: 
+ 
+a) Historia clínica correcta, 
+b) Competencia profesional para la discusión científica del caso clínico y 
+c) Control de calidad. 
+ 
+En el  momento de la discusión, el primer punto (a) es el de mayor importancia; los otros 
+dos puntos son responsabilidad de la dirección médica y de la áreas de gestión. Una vez 
+
+-2- 
+
+
+
+clarificado el problema clínico y las posibles alternativas de tratamiento, se procede a 
+considerar las dimensiones éticas que se refieren a la calidad de vida desde la 
+perspectiva del profesional y desde la perspectiva del paciente/familia, siendo 
+imprescindible respetar sus sistemas de valores.  
+Los factores no clínicos, económicos y sociales principalmente, deben también tenerse en 
+consideración. 
+ 
+ 
+Etapas de la reflexión: 
+El problema de hecho es cómo tomar decisiones racionales en situaciones de 
+incertidumbre. En el caso que nos ocupa supone: 
+ 
+ Examinar la probabilidad de que suceda un hecho determinado (en la evolución 
+
+clínica),  
+ Determinar las consecuencias inmediatas y a largo plazo de cada posible acción (o 
+
+abstención)   
+ Comparar cada consecuencia con el propio sistema de valores y con el del paciente.  
+ 
+Es fundamental una excelente calidad de la práctica clínica y una correcta toma de 
+decisiones por parte del personal sanitario.  
+ 
+La mayor parte de los problemas que se pueden plantear se encontrará en alguno de 
+estos aspectos:  
+ 
+ en la indicación de la intervención médica,  
+ en los valores (preferencias) del paciente,  
+ en la calidad de vida del paciente o  
+ en factores externos ( Ver más adelante en Procedimiento de Galveston). 
+ 
+Nunca hay que perder de vista que el objetivo primordial  es siempre buscar lo mejor 
+para el paciente. 
+ 
+ 
+Condiciones exigibles antes de comenzar la discusión de un problema ético: 
+ 
+1. Se ha de partir de la base de una excelente práctica profesional, requisito 
+
+indispensable para poder plantearse la existencia de un problema ético. F. Abel 
+considera éste, uno de los prerrequisitos éticos. Si no hay una excelente práctica 
+profesional, no pueden tratarse de manera adecuada muchos problemas éticos. 
+
+ 
+2. Una vez comprobada esta condición, se ha de identificar el problema o problemas 
+
+morales y hacerlos explícitos. 
+ 
+ 
+3. Es preciso, además, que exista una posibilidad real de elección entre acciones 
+
+distintas y, 
+ 
+4. que la persona involucrada sea capaz de valorar de modo suficiente cada curso de 
+
+acción posible y sus consecuencias. Si no es competente, esta persona tiene derecho 
+a protección y debe a ser protegida. 
+
+ 
+ 
+Referentes éticos 
+ 
+Es importante disponer de un código de referencia a la hora de tomar decisiones clínicas. 
+Los principios ya expuestos u otras máximas: la persona humana es fin en sí misma y no 
+
+-3- 
+
+
+
+puede ser instrumentalizada (Kant), Trata a los demás como desearías que te trataran a ti 
+(regla de oro…) nos pueden ser de ayuda como instrumentos para resolver algunas 
+situaciones.  
+ 
+Uno de los códigos más antiguos en relación con el comportamiento médico es el 
+juramento hipocrático. Parece que durante muchísimos años ha sido suficiente como 
+código de conducta para médicos. Todos hemos oído que la medicina debe curar, si 
+puede, si no puede curar, debe aliviar y si no puede curar ni aliviar, debe consolar. Si bien 
+en principio todo el mundo estaría de acuerdo con estas aseveraciones, lo cierto es que, 
+en algunos casos que se nos plantean hoy día, no son suficientes para conducirnos hasta 
+soluciones razonadas para los problemas a los que nos enfrentamos. 
+ 
+¿Qué ha cambiado? 
+ 
+- Actualmente disponemos de más y mejores medios técnicos que nos permiten optar 
+
+por diversas soluciones, en algunos casos ninguna de ellas satisfactoria, debiendo  no 
+obstante, elegir forzosamente una de las alternativas. 
+
+ 
+- Los medios técnicos disponibles hoy día permiten mantener la vida biológica durante 
+
+mucho tiempo, en condiciones que antes eran impensables. La evolución, la historia 
+natural de las enfermedades, se ha modificado. Estamos en posesión de un arsenal 
+diagnóstico y terapéutico muy distinto, que además de tener efectos beneficiosos, 
+también puede ejercer efectos nocivos. 
+
+ 
+- Se contempla al paciente de otro modo. Hasta hace cuarenta  años el médico 
+
+<gobernaba=, disponía. Aceptaba la responsabilidad del cuerpo de sus pacientes pero 
+les exigía obediencia: Los pacientes debían hacer lo que el médico prescribía sin 
+discusión. Se trataba de un enfoque deontologista (ética deontologista o de deberes 
+profesionales), se aplicaban las leyes del código único (código deontológico).  
+
+ 
+- El cambio más profundo que se ha producido en los últimos años ha sido el 
+
+reconocimiento de la persona del paciente como agente moral autónomo. Es decir, el 
+paciente tiene derecho a ser informado correctamente y a rehusar el tratamiento que 
+se le propone, si no es compatible con su escala de valores. El reconocimiento médico 
+de este hecho fundamental se enfrenta a la formación hipocrática tradicional en que la 
+relación médico-paciente, reconocida como asimétrica, se establece sobre la base de 
+que quien sabe lo que conviene al paciente es el médico, como hemos dicho antes. Si 
+utilizamos el lenguaje de principios, podemos decir que actualmente en general, se 
+prioriza el principio de autonomía moral del paciente. Es preciso respetar sus valores. 
+Aunque no debe soslayarse que el objetivo de la medicina sigue siendo buscar el bien 
+del paciente y evitar el mal. 
+
+ 
+ 
+ 
+Calidad de vida 
+ 
+Actualmente podemos modificar la historia natural de las enfermedades y podemos 
+mantener la vida biológica en situaciones muy precarias que, según su evolución natural, 
+conducirían a la muerte en un breve plazo de tiempo. En algunas ocasiones es lícito 
+preguntarse si <¿es necesario hacer todo lo que es posible hacer?=. La respuesta es <sí, 
+siempre que sea en beneficio del paciente=. Pero, ¿lo es siempre? ¿Cualquiera de los 
+beneficios de la medicina, lo será de verdad para un paciente determinado? La respuesta 
+no siempre es clara. Es fundamental conocer y respetar la opinión del propio paciente 
+sobre este punto. Esta cuestión ya se ha abordado desde el punto de vista legislativo y los 
+pacientes pueden expresar su propio punto de vista en el documento de <voluntades 
+anticipadas=.  
+
+-4- 
+
+
+
+Frecuentemente podemos mantener la vida biológica por encima de cualquier otra 
+consideración. La pregunta fundamental es: ¿el respeto por la vida implica siempre la 
+necesidad de alargarla? 
+ 
+Ante esta pregunta hay tres respuestas posibles: 
+ 
+1. Actitud vitalista, que se corresponde a lo que se conoce como <Sanctity of life= o 
+
+sacralización de la vida biológica. 
+ 
+2. Valoración de la calidad de vida según criterios utilitaristas, también conocida como 
+
+<Quality of life=. 
+ 
+3. La tercera respuesta es la de aquellos que consideran la vida como un valor básico, 
+
+fundamental, pero consideran también que es necesaria una cierta calidad de vida 
+para mantener la obligatoriedad de conservarla y que el deber de conservar la vida no 
+urge en condiciones particularmente difíciles. <La vida humana no es un bien absoluto 
+sino que está en función de otros valores que pueden conseguirse con ella y que 
+hacen posible darle un sentido= (F. Abel). 
+
+ 
+De hecho, en los últimos treinta años se ha producido un cambio en la mentalidad 
+hospitalaria. Ante la capacidad de la tecnología médica actual que permite prolongar la 
+vida hasta que sea una prolongación del morir, defendida por algunos, existe la opción 
+defendida por otros, médicos y filósofos que creen que la mejor manera de respetar la 
+vida es respetar los valores de los usufructuarios de esta vida. Siempre hay que respetar 
+los deseos de los pacientes y hay que evitar la prolongación indebida de la vida, que es 
+un tipo de violencia que puede perpetrarse hoy sobre el paciente y sus familiares 
+mediante una utilización irresponsable de la tecnología médica. Puede afirmarse que no 
+deberían utilizarse medidas desproporcionadas y que deben evitarse los tratamientos 
+fútiles. 
+Se entiende por tratamiento fútil aquel que clínicamente no es eficaz. No mejora la 
+enfermedad de base, ni las interrecurrencias ni la sintomatología. Podría decirse que sería 
+fútil cualquier esfuerzo para obtener un resultado que, aunque posible, la razón y la 
+experiencia nos dicen que es muy improbable.  
+La razón de no instaurar o de suprimir un tratamiento de estas características reside en 
+las molestias que el tratamiento mismo produce al paciente y en que el beneficio esperado 
+es mínimo. Se trataría , pues, de un tratamiento desproporcionado. 
+ 
+Uno de los problemas que nos podemos encontrar en el análisis de casos en comités de 
+ética asistencial es el que se plantea cuando hemos de transgredir un principio prima 
+facie. En estos casos hemos de tener en cuenta tres puntos: 
+ 
+- El objeto moral que se busca ha de ser realista. 
+- No tenemos otra alternativa moralmente preferible 
+- Hemos de buscar la trasgresión moral menor 
+- El agente debe tomar las medidas necesarias para minimizar los efectos de la 
+
+trasgresión. 
+ 
+ 
+ 
+ 
+ 
+ 
+Aspectos puntuales que pueden ser fuente de conflicto en las primeras etapas de la 
+valoración (pre-requisitos): 
+ 
+
+-5- 
+
+
+
+- Diagnóstico de seguridad: en medicina, que es una ciencia de probabilidades 
+estadísticas, no es posible alcanzar una seguridad del 100%. 
+
+ 
+- Pronóstico a la luz de los conocimientos actuales, utilizando los conocimientos 
+
+científicos disponibles. 
+ 
+- Posibles alternativas de tratamiento o de actuación, con análisis de las consecuencias 
+
+que se derivarán de ellas. 
+ 
+- Decisiones que en ocasiones es preciso plantear: 
+ 
+
+ Si no hay diagnóstico de certeza, ¿es preciso consultar a un experto? 
+ Si existen métodos de diagnóstico o de tratamiento de los que no disponemos, 
+
+¿debemos trasladar al paciente? 
+ 
+Es necesario poner especial cuidado en: 
+- Preguntar todo lo que sea necesario hasta obtener la seguridad de que se ha 
+
+entendido bien. 
+- Aclarar el significado de las expresiones dudosas. 
+- Identificar claramente el problema. 
+- Averiguar si hay circunstancias especiales. 
+- Conocer la opinión del propio paciente y/o de su familia. 
+ 
+
+ 
+
+-6- 
+
+
+
+PROPUESTAS METODOLÓGICAS 
+ 
+Después de lo tratado hasta ahora, viendo de manera global y mediante el desarrollo 
+planteado por el Dr. Abel la manera analizar los problemas éticos, vamos a comentar 
+diversas propuestas metodológicas detallando los pasos más importantes de cada una de 
+ellas para facilitar su asimilación y utilización.  
+ 
+ 
+ 
+ANÁLISIS DE CASOS Y DECISIONES ÉTICAS EN MEDICINA 
+Francesc Abel 
+Instituto Borja de Bioética 
+ 
+ 
+ 
+OBJETIVO: Buscar lo que sea mejor para el paciente 
+ 
+ 
+ Pre-requisitos éticos 
+ 
+
+1. Historia clínica correcta. 
+2. Competencia profesional para la discusión clínica del caso. 
+3. Atención humana e integral al paciente. 
+
+ 
+ Análisis de los aspectos médicos 
+ 
+
+1. Cuáles son los hechos médicos específicos. 
+2. Cuál es el problema concreto que se plantea y motiva la consulta. 
+3. Identificar las alternativas de acción posibles. 
+4. Examinar la probabilidad de que suceda un  acontecimiento determinado. 
+5. Analizar las consecuencias previsibles a largo plazo de cada alternativa y los 
+
+efectos secundarios de cada una.  
+6. Analizar la calidad de vida desde cada alternativa. 
+7. Identificar qué es lo que debemos evitar y las consecuencias que nos parecen 
+
+inadmisibles. 
+ 
+
+ Valores y opinión del paciente 
+ 
+
+1. Comparar cada alternativa de acción con el sistema de valores del paciente y del 
+equipo asistencial. 
+
+2. ¿Existe una posibilidad real de elección entre acciones diferentes? 
+3. La persona involucrada (o su tutor) ¿es capaz de valorar los diferentes cursos de 
+
+acción y sus consecuencias? 
+4. ¿Cuál es la opinión del enfermo y de sus familiares? 
+5. Detectar si existen aspectos no clínicos a tener en cuenta. 
+
+ 
+ Redactar un resumen-recapitulación. 
+ 
+ Recomendación: después de escuchar la opinión de los miembros del Comité debe 
+
+elaborarse una recomendación. 
+ 
+ 
+
+-7- 
+
+
+
+ 
+PRINCIPIOS 
+
+ 
+Respeto a las personas (dignidad de la persona humana) 
+- La persona ha de ser tratada como agente moral autónomo (derecho a la 
+
+autodeterminación) 
+- La persona con autonomía reducida tiene derecho a ser protegida 
+- Derecho a la vida, vida digna, muerte digna. 
+ 
+ 
+ 
+Beneficencia y no-maleficencia (hacer el bien y evitar el mal), de menor a mayor obligación:  
+- No hacer daño a nadie 
+- Evitar o prever el mal 
+- Eliminar el mal 
+- Promover el bien 
+ 
+Justicia (a cada uno lo suyo: distribución equitativa de cargas y beneficios) 
+- A cada cual según su necesidad 
+- Favorecer a los más débiles si la desigualdad resulta inevitable. 
+ 
+Coherencia 
+La acción no debe erosionar, a la larga, el principio que se desea proteger. 
+ 
+ 
+INSTRUMENTOS 
+ 
+
+Obra según una máxima que pueda convertirse en una norma universal (Kant). 
+Obra de tal manera que la persona humana no sea utilizada como un medio sino como un 
+fin (Kant). 
+Tratar a los demás como desearíais ser tratados (regla de oro). 
+Principios de doble efecto, de totalidad, de colaboración (material y formal), de razón   
+proporcionada. 
+Balance de ventajas (beneficios) e inconvenientes (riesgos) para utilizar los medios 
+proporcionados y evitar los desproporcionados. 
+Experiencia y consejo (Comités de Ética o similares). 
+Códigos y normativas (éticas y jurídicas). 
+
+ 
+ 
+
+-8- 
+
+
+
+PROCEDIMIENTO DE GALVESTON (Jonsen, Siegler y Winslade) 
+ 
+Los autores mencionados en el título, en su libro Clinical Ethics definen en la relación 
+médico paciente como formada por tres partes. El médico, el paciente y los que no son 
+médico ni paciente ( familia, sociedad etc). Cada una de estas partes aporta a la relación 
+sus propias perspectivas éticas. El enfermo hace patente sus opiniones, creencias, 
+valores, es decir, aporta a la relación su manera de entender la vida y afrontar la 
+enfermedad. El médico está representado por su saber técnico y profesional. La sociedad  
+aportará su concepción de  justicia y bien común. 
+Si se establece un paralelismo con los principios clásicos,  el paciente representaría el 
+principio de autonomía, el profesional sanitario el de beneficencia  y por fuera de estos 
+actores, estaría  el de justicia. Estos autores,  creadores  del Programa de Humanidades 
+y Medicina Interna de la Universidad de Texas en Galveston, proponen el siguiente 
+método de análisis, utilizando cuatro parámetros.  Pretenden aportar un enfoque que 
+facilite la reflexión sobre las situaciones más complejas que surgen de los problemas que  
+los clínicos afrontan en la vida real. Estos parámetros pueden aplicarse a cualquier caso 
+clínico, independientemente de las circunstancias en las que se apliquen y suponen un 
+instrumento organizativo para la docencia y el debate. Este método de análisis arranca 
+con la presentación de las características objetivas del caso , y se hacen referencias a los 
+principios a medida que estos son relevantes en el debate de los parámetros. Se 
+pretende evitar el debate en abstracto sobre los principios o, asumir un solo principio , ya 
+sea el  de autonomía o el de beneficencia, como el único elemento guía del caso. Para 
+los autores, como mejor se comprenden las normas y los principios éticos es en el 
+contexto particular de las circunstancias reales de un caso, las decisiones morales deben 
+tomarse tras una profunda deliberación y el enfoque que plantean es el llamado 
+casuístico, en el que esta deliberación se realiza a partir del caso concreto. 
+ 
+El orden inicial, jerárquicamente es tal como se describe I- Preferencias del paciente, 2-
+Indicaciones médicas, 3- Calidad de vida, 4-Factores socioeconómicos.  
+Esta jerarquización inicial puede cambiar a lo largo del proceso, en función del análisis 
+del caso  por ejemplo en ocasiones la justicia tiene que estar por encima de la autonomía 
+etc.. 
+ 
+ 
+ 
+Los cuatro parámetros enumerados a continuación ofrecen un medio sistemático para la 
+identificación y el análisis de los problemas éticos surgidos en la medicina clínica. 
+ 
+I. Las indicaciones para la intervención médica. 
+ Los principios de beneficencia y No maleficenca 
+ 
+
+1. ¿Qué problema médico tiene el paciente? ¿Cuál es su historial diagnóstico y 
+pronóstico?  
+
+2. ¿Es un problema agudo o crónico, crítico o no crítico, reversible o irreversible? 
+3. ¿Cuáles son los objetivos del tratamiento? 
+4. ¿Cuáles son las probabilidades de éxito? 
+5. ¿Qué alternativas se barajan en caso de fracaso terapéutico? 
+6. En suma, ¿como se puede beneficiar el paciente de la atención médica y de 
+
+enfermería sin causarle daño. 
+  
+
+II. Las preferencias del paciente 
+ El principio de respeto a la autonomía 
+ 
+
+1. ¿Tiene el paciente intactas sus facultades mentales y es legalmente 
+competente? ¿Hay signos de incapacidad?  
+
+-9- 
+
+
+
+2. Si el paciente es competente,¿ Ha manifestado sus preferencias en cuanto a 
+su tratamiento?? ¿Tiene el paciente capacidad para elegir? 
+
+3. ¿Se le ha informado de los riesgos y beneficios? ¿Ha comprendido dicha 
+información ¿Ha dado su consentimiento?  
+
+4. Si está incapacitado, quien es su representante legítimo? ¿Basa éste sus 
+decisiones en principios adecuados? 
+
+5. ¿Ha expresado el enfermo previamente sus preferencias , p.ej. en directrices 
+médicas anticipadas? 
+
+6. ¿Se resiste o colabora en el tratamiento médico? Justifique la respuesta. 
+7. En suma, ¿se está respetando, en lo posible, el derecho de elección del 
+
+paciente de acuerdo con la ética y la ley? 
+ 
+ 
+
+III. La calidad de vida 
+ Los principios de beneficencia y no maleficencia, y de respeto a la 
+ autonomía personal. 
+
+ 
+1. ¿Cuáles son las perspectivas del paciente de retornar a su vida normal si 
+
+sigue el tratamiento o si lo obvia?  
+2. ¿Qué carencias de índole físico, mental y social son previsibles incluso con 
+
+un resultado positivo del tratamiento?  
+3. ¿Existen prejuicios susceptibles de influir en la evaluación que el profesional 
+
+sanitario haga respecto de la calidad de vida del paciente?  
+4. ¿Es la situación actual ( o previsible) del paciente de tal naturaleza que no 
+
+valdría la pena seguir viviendo? 
+5. ¿Existen planes o razones que justifiquen la renuncia al tratmiento? 
+6. ¿Se han previsto alivios y cuidados paliativos? 
+
+ 
+IV. Los rasgos contextuales 
+
+ Los principios de lealtad y de justicia 
+ 
+
+1. ¿Hay factores familiares susceptibles de influir en las decisiones relativas al 
+tratamiento?  
+
+2. ¿Hay factores vinculados a los profesionales sanitarios (médicos y 
+enfermeros) que afecten a las decisiones en torno al tratamiento? 
+
+3. ¿Median factores económicos o financieros? 
+4. ¿Y factores religiosos o culturales?  
+5. ¿Existen límites a la confidencialidad? 
+6. ¿Hay problemas en la asignación de los recursos sanitarios? 
+7.  ¿En que medida afecta el Derecho a las decisiones sobre el tratamiento?  
+8. ¿Media la investigación o la docencia clínica? 
+9. ¿Se da algún conflicto de intereses en los profesionales sanitarios o en el 
+
+centro hospitalario? 
+ 
+
+-10- 
+
+
+
+METODOLOGÍA Dr. Edmund Pellegrino 
+ 
+Edmun D Pellegrino fue durante años director del Instituto Kennedy de Ética de la 
+Universidad de Georgetown manteniendo una estrecha colaboración con Thomasma. 
+desde que trabajaran juntos en Yale en 1977.  
+Plantean la situación problemática desde el punto de vista moral describiéndola como un 
+cálculo. El procedimiento en la toma de decisiones éticas debe constar del análisis y 
+estudio de los problemas médicos del enfermo y a partir de ahí se siguen los siguientes 
+pasos: Identificación de valores, clarificación, priorización o jerarquización y elección.  
+Pellegrino teniendo en cuenta los datos comentados elabora un cuestionario de 10 
+puntos como guía de ayuda en la toma de decisiones: 
+ 
+ 
+
+1. ¿Cuáles son los hechos científicos y técnicos? ¿Qué alternativas de actuación 
+ofrecen? 
+
+2. ¿Qué dilemas éticos plantean esas elecciones? ¿Qué principios éticos están en 
+juego? 
+
+3. ¿Quién es el paciente y cuales son sus valores? 
+4. ¿Quién es el médico y cuales son sus valores? 
+5. ¿Están en conflicto los valores del médico y su paciente? 
+6. ¿A que nivel ético emergen? ¿En que asunciones prelógicas se basan? 
+7. ¿Es el conflicto resoluble de modo que resepte la opción moral de todas las 
+
+partes? 
+8. Haz una elección moral para este caso; una que sea buena par este paciente. 
+9. ¿Implica esa elección un proceso de consentimiento moralmente defendible? 
+10. Revisa cada paso. ¿Eres capaz de defenderlo con criterios racionabes? 
+
+ 
+Este procedimiento ha sido reelaborado por Pellegrino posteriormente distinguiéndose  
+dos niveles el sustantivo y el procedimental. 
+Los temas propios del nivel sustantivo se agrupan en cuatro ejes: Naturaleza de la 
+relación médico – paciente ( con sus diferentes formas: sacerdotal, paternalista, 
+contractual, científica..), Conocimiento de las teorías éticas , teleológicas, 
+deontológicas.. y de los Principios implicados  (beneficencia, autonomía , justicia), 
+Interpretación realizada por los médicos sobre la base de esos fundamentos 
+teóricos. 
+El nivel procedimental consta de cinco pasos que permiten la decisión del curso de 
+acción más conveniente. Estos pasos son: 
+Definir las cuestiones éticas y los principios involucrados en el problema 
+específico; determinar cuál es el mejor interés del paciente; definir las cuestiones 
+éticas y los principios involucrados en el problema específico; formular una 
+decisión en términos claros y concretos; y   finalmente justificar esa decisión. 
+    
+ 
+ 
+ 
+A. Análisis sustantivo:  
+ 
+1. Naturaleza de la relación médico-paciente: 
+2. Conocimiento de la teoría ética 
+3. Interpretación que los médicos hacen de estos fundamentos teóricos : 
+ Juramentos, códigos .. 
+ 
+4. Fundamento último de la moralidad  
+ Teónomo, heterónomo, autónomo.. 
+ 
+ 
+
+-11- 
+
+
+
+B. Análisis procedimental: 
+ 
+1. Establecer los hechos clínicos relevantes 
+ Historia natural de la enfermedad 
+ Opciones de tratamiento 
+ Situaciones especiales 
+2. Determinar cuál es el mejor interés del paciente 
+3. Definir las cuestiones éticas y los principios involucrados en el caso: 
+ Ética sustantiva ( principios que están en juego; conflicto de principios; 
+ obligaciones del profesional de la  salud; ¿son los conflictos resolubles?; ¿cómo?). 
+ Ética procedimental ¿quien decide?; ¿hay conflictos entre quienes tienen que 
+ decidir?; ¿cómo resolverlos?. 
+ 
+4. Toma de Decisión 
+ 
+5.   Justifica la decisión  
+ Da razones éticas de la decisión 
+ Razones en contra de la decisión 
+ Argumentos contra esas objeciones 
+ 
+ 
+En la estructura profunda de la decisión destacaríamos los siguientes puntos: 
+ 
+1. Filosofía de la relación médico-paciente 
+ 
+2. Interpretación de los principios prima facie: beneficencia, justicia, autonomía y reglas 
+
+derivadas. 
+ 
+3. teorías éticas: 
+
+ Teleológicas 
+ Deontológicas 
+ Virtudes 
+ 
+
+4. Fuente última de moralidad: antropología filosófica, teológica, socio-histórica, 
+existencialista, moral de sentimientos, biológica. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+-12- 
+
+
+
+METODOLOGIA : David C.Thomasma 
+ 
+En 1978 Thomasma publicó un artículo <Training in Medical Ethics: An ethical 
+workup= en el que proponía un procedimiento de toma de decisiones bioéticas. Este 
+procedimiento pretende articular hechos y valores. Los hechos serían los datos clínicos, 
+que adquieren en este método una importancia fundamental y los valores del médico, del 
+paciente y de la sociedad. En este procedimiento los datos médicos funcionan como una 
+regla moral. 
+En este método se intenta armonizar los hechos objetivos con los valores de todos los 
+implicados, en particular con los del enfermo. 
+Hechos y valores aparecen unidos en un contexto concreto y Thomasma propone 
+analizarlos conjuntamente mediante una matriz contextual. 
+ 
+1 Describe todos los hechos del caso. Asegúrate de investigar cada hecho médico no 
+presente en el caso, pero posiblemente relevante para su resolución. 
+ 
+2 Describe los valores relevantes de los médicos, los pacientes, los miembros de la casa 
+y los del hospital, el propio hospital y la sociedad. 
+ 
+3 Determina el principal valor amenazado, p.e., ¿es éste un caso que exige al médico 
+curar contra los deseos del paciente? 
+ 
+4 Determina los posibles cursos de acción que pueden proteger en ese caso concreto el 
+mayor número posible de valores. 
+ 
+5 Elige un curso de acción 
+ 
+6 Defiende este curso de acción a partir de los valores que le fundamentan,p.e. ¿por qué 
+se ha elegido un valor sobre otro en este caso? ¿Por qué es el curso de acción X mejor 
+que Y?  
+ 
+Otros autores han propuesto sistemas similares como por ejemplo Tristam Engelhart que 
+lo ha hecho a partir del sistema de D.C. Thomasma 
+ 
+
+-13- 
+
+
+
+ 
+LOS PASOS DE LA DELIBERACIÓN MORAL. DIEGO GRACIA. 
+ 
+Siguiendo a Diego Gracia, para comprobarse la calidad de la deliberación moral se exigen 
+dos etapas. 
+En un primer momento se contrasta la proposición o consejo sobre el curso de la acción a 
+seguir con los principios éticos implicados en el caso, se comprueban los que entran en 
+conflicto y porqué, analizando la situación y las diferentes alternativas posibles desde la 
+óptica de los principios. 
+En una segunda etapa se evalúan las consecuencias previsibles si se sigue la 
+recomendación , analizando las circunstancias concretas que concurren en el caso y se 
+valoran los cursos de acción posibles y alternativos. 
+Si aplicando un principio, se generan consecuencias negativas para la persona afectada, 
+debe argumentarse la excepción al principio. 
+ 
+En la práctica de la deliberación para decidir sobre una opción moral, nos guiamos por los 
+principios, como promueve el deontologismo, como prevemos las consecuencias, 
+analizamos de acuerdo con los utilitaristas y también, a la vez,  se analizan las 
+circunstancias concretas del caso como propone la casuística. 
+ 
+ 
+I Contraste del consejo moral con los principios éticos: 
+ 1. Identificación de los principios involucrados en el caso. 
+ 2.Análisis de la causa del conflicto entre los principios o valores. 
+ 
+II Evaluación de las consecuencias previsibles: 
+ 1: Análisis de las circunstancias concurrentes y de las consecuencias previsibles. 
+ 2.Examen y justificación de la excepción a los principios, si procede. 
+ 
+ 
+ 
+ 
+ 
+ 
+Finalizando estas líneas, queremos subrayar la importancia de la aplicación de un método 
+para el análisis de los problemas morales que aparecen en la práctica clínica, de la misma 
+forma que aplicamos un método, la historia clínica, para el análisis de los problemas 
+médicos, hemos subrayado la importancia de la deliberación y expuesto diversos métodos 
+que pueden guiarnos al ofrecernos una sistemática de actuación, existen otros que 
+pueden consultarse en la bibliografía citada, pero se han elegido aquellas más utilizadas.
+
+-14- 
+
+
+
+BIBLIOGRAFIA  
+ 
+Abel, F. Historia y funciones de los Comités de Ética Asistencial. Labor Hospitalaria nº 
+244, 110-117, 1993 
+ 
+Abel, F y Cambra, F. Neonatología y discapacidad severa. En Diagnóstico prenatal, 
+Neonatología y discapacidad severa: problemas éticos. Ed Institut Borja de Bioètica i 
+Fundacion Mapfre Medicina; 2001. 
+ 
+Amor JR. Introducción a la bioética. PPC. Editorial. 2º ED. Madrid 2005 
+ 
+Beca JP. Astete. C. Bioética Clínica. Ed Mediterráneo. Santiago de Chile. 2012 
+ 
+Gracia D. Procedimientos de decision en Ética Clínica. Eudema Universidad. Madrid 1991 
+ 
+Jonsen AR, Siegler M, Winslade W. Ética Clínica. 1ª Ed Ed Ariel. Barcelona 2005. 
+ 
+Montero F, Morlans M. Para deliberar en los Comités de Ética. Fundació Dr. Robert. 1ª 
+Ed. 2009 
+ 
+Torralba, F. Filosofía de la Medicina. En Torno a la obra de E.D. Pellegrino. Ed. Institut 
+Borja de Bioètica y Fundación Mapfre Medicina; 2001. 
+ 
+ 
+ 
+ 
+
+-15-

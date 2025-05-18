@@ -1,0 +1,44 @@
+{
+    "Estrategia": {
+        "temperature": 0.2,
+        "top_p": 0.9,
+        "frequency_penalty": 0.1,
+        "presence_penalty": 0.1
+    },
+    "Conflictos": {
+        "temperature": 0.3,
+        "top_p": 0.9,
+        "frequency_penalty": 0.2,
+        "presence_penalty": 0.2
+    },
+    "Criptografía": {
+        "temperature": 0.1,
+        "top_p": 0.85,
+        "frequency_penalty": 0.0,
+        "presence_penalty": 0.1
+    },
+    "Datos y Probabilidad": {
+        "temperature": 0.1,
+        "top_p": 0.8,
+        "frequency_penalty": 0.0,
+        "presence_penalty": 0.2
+    },
+    "Ética y Comportamiento": {
+        "temperature": 0.4,
+        "top_p": 0.95,
+        "frequency_penalty": 0.1,
+        "presence_penalty": 0.3
+    },
+    "Juegos y Toma de Decisiones": {
+        "temperature": 0.2,
+        "top_p": 0.9,
+        "frequency_penalty": 0.1,
+        "presence_penalty": 0.2
+    },
+    "Otros": {
+        "temperature": 0.5,
+        "top_p": 0.95,
+        "frequency_penalty": 0.2,
+        "presence_penalty": 0.3
+    }
+}

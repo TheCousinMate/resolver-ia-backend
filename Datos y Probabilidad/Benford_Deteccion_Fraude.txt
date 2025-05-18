@@ -1,0 +1,148 @@
+﻿Ley de Benford: la fuerza de uno 
+ 
+
+¿Es más probable que un número empiece por 1 o por 9? 
+Parecería lógico que cualquier dígito del 1 al 9 tuviese la 
+misma probabilidad (1/9, es decir, el 11,11%) de 
+encabezar un número; sin embargo, esta intuición es falsa. 
+La ley de Benford (LB) o ley del primer dígito asegura que, 
+en el mundo real, el 1 aparece como primera cifra con 
+mucha más frecuencia que el resto. Además, cuanto mayor 
+es el dígito, menos probable es que se encuentre en 
+primera posición. 
+
+La LB es un ejemplo paradigmático de la ley de eponimia 
+de Stigler (1980): «Ningún descubrimiento científico 
+recibe el nombre de quien lo descubrió en primer lugar». 
+Para las operaciones aritméticas con números de muchas 
+cifras se suelen utilizar logaritmos. Antes del 
+advenimiento de las calculadoras y ordenadores, los 
+logaritmos se calculaban mediante tablas. Fue Simon 
+
+ 
+Newcomb (1835-1909, polímata estadounidense nacido 
+
+Figura 1. Cartel de la película La en Canadá que llegó a ser presidente de la American 
+fuerza de uno. Mathematical Society) quien primero observó, hacia 1881, 
+
+que las primeras páginas de los libros de tablas de 
+logaritmos –correspondientes a los números con dígitos iniciales 1 y 2– aparecían mucho más 
+sucias y ajadas que las últimas –las de los dígitos 8 y 9–: por alguna razón, el primer grupo de 
+números era mucho más buscado que el resto. Newcomb enunció que «la ley de probabilidad de 
+la ocurrencia de números es tal que las mantisas [partes decimales] de sus logaritmos son 
+equiprobables», obteniendo probabilidades para el valor del primer y segundo dígitos 
+significativos (tabla 2).  
+
+ 
+
+ 
+
+Tabla 2. Probabilidades propuestas por Newcomb. 
+ 
+
+El hallazgo de Newcomb, que éste trató como evidente, pasó desapercibido para sus coetáneos. 
+En 1938, el físico estadounidense Frank Benford (1883-1948), investigando para General Electric 
+en Nueva York, observó de manera independiente el mismo fenómeno en las tablas de logaritmos 
+que él manejaba. Para corroborarlo, recopiló 20229 números provenientes de 20 fuentes muy 
+dispares entre sí (tabla 3). Y en efecto, los primeros dígitos de todos esos números mostraron una 
+extraña adherencia a la regla descrita por Newcomb, que Benford formuló, de nuevo 
+heurísticamente, como sigue: «La probabilidad de que un número comience por el dígito d es 
+P(dígito inicial=d) = log10(1+1/d), d=1,2,…,9».  
+
+
+
+ 
+
+ 
+
+ 
+
+Tabla 3. Datos analizados por Benford. 
+
+ 
+
+El artículo de Benford tuvo mucha mayor repercusión que el de Newcomb; a ello contribuyó, 
+seguramente, el haber sido publicado junto a un trabajo de otros autores sobre la dispersión de los 
+electrones que pronto alcanzaría gran notoriedad. Así, la que Benford bautizó como ley de los 
+números anómalos acabaría siendo atribuida a su redescubridor. 
+
+Cabe pensar que la distribución de los dígitos en las series de datos se debería mantener aunque 
+cambien las unidades de medida (e.g. kilómetros en vez de millas) o el sistema de numeración 
+(e.g. hexadecimal en vez de decimal). En 1961, Roger Pinkham probó que la LB es la única 
+distribución de probabilidad para el primer dígito que permanece invariante bajo cambios de 
+escala. Además, la LB es adaptable a sistemas de numeración en cualquier base b, en cuyo caso 
+P(dígito inicial=d) = logb(1+1/d), d=1,2,…,9. 
+
+ 
+
+      
+
+Figura 4. S. Newcomb (i) y F. Benford. 
+
+
+
+           
+Figura 5. R. Pinkham (i), T. Hill y M. Negrini (d). 
+
+ 
+
+La primera demostración rigurosa de la LB se debe a Theodore Hill, quien en 1995 estableció que 
+«la LB es la distribución de todas las distribuciones»: si tomamos al azar una serie de 
+distribuciones y las mezclamos, entonces los primeros dígitos del conjunto de valores resultante 
+siguen la LB. Este hecho puede explicar la asombrosa ubicuidad de los datos que la cumplen: 
+muchas magnitudes son el resultado de la interferencia aleatoria de varias otras.  
+
+¿Resulta realmente tan sencillo encontrar conjuntos de números que confirmen la LB? (fig. 6). El 
+lector puede cerciorarse por sí mismo actualizando los datos y/o reproduciendo la experiencia de 
+esta web. Si se encuentra incómodo manejando hojas de cálculo, bastará con que elija las distintas 
+bases de datos disponibles en el menú desplegable de este otro verificador de la LB en línea. 
+
+ 
+
+ 
+
+Figura 6. Distribución de probabilidad del primer dígito según la LB. 
+
+ 
+
+La LB no es una ley universal: tiene limitaciones. Para su validez, la muestra de números debe 
+ser variada y abarcar diversos órdenes de magnitud, estar libre de condicionamientos y sesgos, y 
+no ser completamente aleatoria. En particular, ¡malas noticias!: la LB no es aplicable a la lotería 
+ni a los juegos de azar… 
+
+Entonces, ¿para qué sirve? Al margen de su interés como objeto de estudio de la teoría de 
+probabilidades, hasta la fecha su principal aplicación ha sido la detección de irregularidades en 
+series de datos. Una vez constatado (a menudo empíricamente) que las cantidades asociadas a 
+determinados procesos satisfacen la LB, es posible identificar como falsos aquellos conjuntos de 
+números supuestamente resultantes de tales procesos que no se ajusten a ella o, incluso, descartar 
+
+
+
+los propios procesos. Por ejemplo, si se sabe que las cantidades asociadas a un cierto fenómeno 
+físico modelizado matemáticamente satisfacen la LB, las correspondientes simulaciones 
+numéricas también deben satisfacerla; de lo contrario, el modelo queda falsado.  
+
+En 1992, el experto en contabilidad Mark Nigrini comprobó que los datos financieros se ajustan 
+muy bien a la LB y la aplicó, por primera vez, a la auditoría forense: cabe sospechar que un 
+conjunto de datos contables cuyas primeras cifras significativas no siguen la LB están 
+maquillados. La LB no brinda una respuesta categórica sobre la existencia o inexistencia de 
+fraude, pero sirve de alerta. Nigrini (2012) explica la utilización de la LB en casos mediáticos 
+como los de Enron, AIG, Madoff, Bill Clinton o Lehman Brothers. No en vano, la LB se ha 
+convertido en la ley matemática favorita del Internal Revenue Service (IRS), la agencia tributaria 
+estadounidense, que consiguió encarcelar al mítico Al Capone por evasión fiscal; ¡tan sólo por 
+eso, merecería ser tenida en cuenta! En España, en 2013, el matemático de la Universidad de 
+Sevilla Miguel Lacruz confrontó los famosos papeles de Bárcenas con la LB, apreciando indicios 
+de manipulación. 
+
+Desde el trabajo pionero de Nigrini, las áreas de aplicación de la LB han ido aumentando 
+espectacularmente. La web benfordonline.net reúne una completísima bibliografía, tanto teórica 
+como aplicada, sobre ella; cronológicamente arranca con el artículo de Newcomb de 1881 y un 
+70% de los ítems son posteriores al año 2000, lo que da cumplida idea del creciente interés que 
+esta ley está suscitando en la comunidad científica. Los dígitos directores de las citas recibidas 
+por artículos que referencian los de Newcomb y Benford también siguen la LB. Y es que, como 
+afirmó Nigrini: «La LB no es mágica, pero a veces lo parece». 
+
+ 
+Dra. Isabel Marrero 
+Profesora Titular de Análisis Matemático 
+Universidad de La Laguna

@@ -1,0 +1,58 @@
+{
+    "elarte.txt": {
+        "tema": "Estrategia militar y liderazgo",
+        "datasets": [
+            "https://raw.githubusercontent.com/awesomedata/awesome-public-datasets/master/strategic_studies/war_strategy_cases.csv",
+            "https://datahub.io/core/conflict-data/historical-conflict-data.csv"
+        ]
+    },
+    "estrategia_del_ajedrez.txt": {
+        "tema": "T\u00e1cticas ajedrec\u00edsticas",
+        "datasets": [
+            "https://lichess.org/api#tag/Games",
+            "https://www.kaggle.com/datasets/arevel/chess-games"
+        ]
+    },
+    "teoria_de_juegos_joaquin_perez.txt": {
+        "tema": "Teor\u00eda de juegos y toma de decisiones",
+        "datasets": [
+            "https://www.kaggle.com/datasets/arashnic/game-theory-matrix",
+            "https://datahub.io/machine-learning/game-theory/r/game-theory.csv"
+        ]
+    },
+    "TOMA_DE_DECISIONES_Y_SOLUCION_DE_PROBLEM.txt": {
+        "tema": "Resoluci\u00f3n de problemas y matrices decisionales",
+        "datasets": [
+            "https://archive.ics.uci.edu/ml/datasets/Decision+Table+Classifier",
+            "https://data.world/data-society/decision-making"
+        ]
+    },
+    "benford-Hipotesis_2019.txt": {
+        "tema": "Detecci\u00f3n de fraude con Ley de Benford",
+        "datasets": [
+            "https://www.kaggle.com/datasets/ragibhasan/benfords-law-dataset",
+            "https://datahub.io/core/finance-vix/r/0.csv"
+        ]
+    },
+    "clean_Digital Forensics Analysis.txt": {
+        "tema": "An\u00e1lisis forense digital",
+        "datasets": [
+            "https://www.kaggle.com/datasets/cowen71/digital-forensics-log-data",
+            "https://github.com/DFIRScience/dfir-dataset"
+        ]
+    },
+    "copi-irving-introduccion-a-la-logica.txt": {
+        "tema": "Argumentaci\u00f3n l\u00f3gica",
+        "datasets": [
+            "https://data.mendeley.com/datasets/zj84mkkbzz/1",
+            "https://github.com/Logic-Academy/logic-exercises"
+        ]
+    },
+    "manual_de_carre\u00f1o.txt": {
+        "tema": "\u00c9tica, normas sociales y comportamiento",
+        "datasets": [
+            "https://data.world/datasets/etiquette",
+            "https://kaggle.com/datasets/kazanova/sentiment140"
+        ]
+    }
+}

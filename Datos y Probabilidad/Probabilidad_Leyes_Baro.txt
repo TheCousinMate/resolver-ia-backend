@@ -1,0 +1,743 @@
+﻿Leyes de probabilidad
+
+Fundamentos estadísticos
+
+Francisco Marzal Baró 
+Curso 2016/17
+
+Versión 1
+
+
+
+Leyes de Probabilidad 2
+
+Índice
+ Conceptos:
+
+ Variable aleatoria.
+ Distribución de probabilidad.
+ Ley de probabilidad.
+ Densidad de probabilidad.
+
+ Leyes de probabilidad para variables discretas:
+ Ley Binomial.
+ Ley de Poisson.
+ Ley Hipergeométrica.
+
+ Leyes de probabilidad para variables continuas:
+ Ley Normal.
+
+NOTA: Algunos gráficos y tablas están sacados del libro: Métodos Estadísticos. J.M. Doménech Massons.
+
+
+
+Leyes de Probabilidad 3
+
+Conceptos
+- Toda variable sigue, en la población, una determinada ley de probabilidad -
+
+ Variable aleatoria o estocástica: Es una función que en un experimento aleatorio,
+asigna a cada suceso elemental ei un valor numérico ri.
+Ej:    E = {masculino, femenino} 
+
+Masculino → 0
+Femenino → 1
+
+ Distribución de probabilidad: Es el conjunto de todos los valores de la variable con
+sus correspondientes probabilidades.
+Ej: Valores de un dado E = {1, 2, 3, 4, 5, 6}
+
+
+P= { , 
+
+ , 
+ , 
+
+ , 
+ , 
+
+ }
+
+ Ley o Modelo de probabilidad: Modelo que sirve para explicar la distribución de una
+variable aleatoria.
+
+ Densidad de probabilidad: En variables continuas, es la probabilidad asociada a un
+determinado intervalo.
+
+
+
+Leyes de Probabilidad 4
+
+Aplicaciones prácticas de la probabilidad
+ Las leyes de la probabilidad se utilizan para cuantificar los patrones que se observan en fenómenos 
+
+aleatorios. 
+
+ Ejemplos:
+
+ El lanzamiento de dados.
+
+ La evolución de una epidemia. 
+
+ El crecimiento de una población.
+
+ El comportamiento de mercados financieros.
+
+ El crecimiento de galaxias.
+
+ Modelos meteorológicos para calcular el tiempo y el nivel de precipitación en una ciudad. 
+
+ Cuando se produce un huracán y para estimar qué lugares serán afectados, así como la magnitud de los eventuales 
+destrozos.
+
+ Se utiliza en la fiabilidad de los productos, para reducir la probabilidad de avería. Está relacionado con la garantía del 
+producto.
+
+ Albert Einstein comentó en una carta a Max Born: “Estoy convencido de que Dios no tira los dados”. No obstante hoy 
+en día no existe un medio mejor para describir la física cuántica si no es a través de la teoría de la probabilidad.
+
+
+
+Leyes de Probabilidad 5
+
+Esperanza matemática (o valor esperado) y Variancia.
+
+ La distribución de una variable aleatoria puede resumirse por la 
+media (llamada esperanza matemática) y la variancia.
+
+ El cálculo se efectúa con las probabilidades de cada valor en vez de 
+utilizar la frecuencia.
+
+ Esperanza y Variancia para variables discretas:
+
+   ∑	 	
+	    ∑		  
+	
+
+Leyenda:
+X: Variable aleatoria.
+: Nº total de valores que toma la variable.
+	: Valor que toma cada variable.
+
+	: Probabilidad de obtener cada valor. 
+
+
+
+Leyes de Probabilidad 6
+
+Ley Binomial
+ Definición: La distribución de frecuencias de objetos con una determinada característica, que se obtiene
+
+al extraer de forma no exhaustiva muestras al azar de una población, sigue una ley Binomial.
+
+ Representación: Una variable aleatoria S sigue una distribución binomial de parámetros n y π, se
+escribe:
+
+"~$, 
+
+ Características:
+
+ Distribución de probabilidad discreta.
+ Solamente admite dos categorías (éxito y fracaso).
+ Las probabilidades de ambas posibilidades han de ser constantes en todos los experimentos (π y 1-π).
+ Se utiliza en muestreos CON reposición.
+ Para poblaciones muy grandes (N>>n).
+
+ Cálculo:
++ ,  !
+
+.!/.! ∙ 
+. 1  
+ /.
+
+ "  
+   ;     "  
+1  
+
+Leyenda:
+n: nº de sujetos escogidos en una muestra.
+k: nº de sujetos buscados en la muestra.
+π: Proporción del parámetro buscado en la población.
+S: Variable aleatoria. 
+
+
+
+Leyes de Probabilidad 7
+
+Ejemplo Ley Binomial p ,  !
+.!/.! ∙ 
+.1  
+/.
+
+Tenemos una caja con 4 bolas azules (A) y 3 bolas blancas (B).
+Si extraemos dos bolas con reposición calcular la probabilidad +  3
+
+7 ∙ 3
+7  0.184
+
+de encontrar bolas azules:
+
++  3
+7 ∙ 4
+
+7  0.245
+a) Que sean las dos blancas 0.245∙ 2  0.49
+
+ + ,  0  !
+4!/4! ∙ 0.5714 1  0.571 /4  0.184
+
+b) De encontrar una bola azul +  4
+7 ∙ 4
+
+7  0.326
+ + ,  1  !
+
+!/! ∙ 0.571 1  0.571 /  0.49 Prob. obtener Bolas 
+Azules Leyenda:
+
+n: Nº de bolas
+0,6
+
+c) Que sean las dos azules extraídas.
+0,4 k: Nº bolas azules
+
+ + ,  2  ! 0,2
+!/! ∙ 0.571 1  0.571 /  0.326 buscadas.
+
+π: Prop.bolas azules
+0 en la población. 
+
+0 1 azul 2
+d) Calcular la Esperanza y la Variancia azules azules
+
+  "  
+  2 ∙ 0.571  1.142        ;           "  
+ 1  
+  2 ∙ 0.571 1  0.571  0.49
+
+
+
+Leyes de Probabilidad 8
+
+Ejercicio p ,  ! .
+.!/.! ∙ 
+ 1  
+/.
+
+ Se lanza un dado perfecto de 6 caras, 51 veces. ¿Cuál es la probabilidad
+de que el número 3 salga 20 veces?
+
+S ~ B(51, 1/6) y la probabilidad sería p(S=20):
+
+n= 51
+k= 20
+π= 1/6
+
++ 20  51!
+20! 51  20! ∙ 1/64 1  1 ?/4
+
+6  0.00007353
+
+
+
+Leyes de Probabilidad 9
+
+Ley de Poisson
+ Definición: La distribución de frecuencias de una característica poco frecuente, obtenida al extraer
+
+al azar y con reposición muestras muy grandes, sigue una ley de Poisson.
+
+ Representación: S ~ Aλ , representando λ el número de veces que se espera que ocurra el
+fenómeno en una muestra o intervalo dado.
+
+ Características:
+ Distribución de probabilidad discreta.
+ Solamente admite dos categorías (éxito y fracaso).
+ Se utiliza en muestreos con reposición.
+ Para poblaciones muy grandes (N>>n).
+ En muestras muy grandes C D EFF .
+ La frecuencia de la característica a estudiar es poco frecuente G H F. FI.
+
+ Cálculo: Leyenda:
+: nº del tamaño de la muestra.
+
++ "  ,  JK
+.! ∙ L/J ,: nº de ocurrencias del evento.
+
+: Proporción del evento en la población.
+
+ "   "  λ  
+ λ   ∙
+L  2.71828 … .
+
+
+
+Leyes de Probabilidad 10
+
+Ejemplo Ley de Poisson p "  ,  JK
+.! ∙ L/J
+
+ La prevalencia de personas pelirrojas en el municipio de Madrid es del 2%.
+Realizando una muestra aleatoria de 100 sujetos, ¿Cual es la probabilidad
+de encontrar en la muestra?
+
+λ  
+  100 ∙ 0.02  2
+ 1 persona pelirroja: 
+
++ ,  1  λ.
+,! ∙ L/J  2
+
+1! ∙ L/  0.2707
+ 5 personas pelirrojas:
+
++ ,  5  2?
+5! ∙ L/  0.0361
+
+ Calcular la Esperanza y la Variancia:
+Leyenda:
+
+ "   "  λ  π  2 : nº del tamaño de la muestra.
+,: nº sujetos con pelo pelirrojo.
+
+: Proporción de pelirrojos en la población.
+λ  
+
+
+
+
+Leyes de Probabilidad 11
+
+Ejercicio demostrativo p ,  !
+.!/.! ∙ 
+.1  
+/.
+
+ Repetir el ejercicio anterior aplicando la ley Binomial.
+La prevalencia de personas pelirrojas en el municipio de Madrid es del 2%.
+Realizando una muestra aleatoria de 100 sujetos, ¿Cual es la probabilidad de
+encontrar en la muestra?
+
+ 1 persona pelirroja:
++ ,  1  44!
+
+!44/! ∙ 0.02 1  0.02 44/  0.2706 O 0.2707 (Poisson k=1)
+
+ 5 personas pelirrojas:
++ ,  5  44!
+
+?!44/?! ∙ 0.02? 1  0.02 44/?  0.0353 O 0.0361 (Poisson k=5)
+
+ Calcular la Esperanza y la Variancia:
+ "  
+  100 ∙ 0.02  2      ;         "  
+ 1  
+  100 ∙ 0.02 1  0.02  1.96
+
+ "   "  λ  π  2 (Poisson)
+
+
+
+Leyes de Probabilidad 12
+
+Ejercicio p "  ,  JK
+.! ∙ L/J
+
+ El 2% de los libros encuadernados en un taller tiene encuadernación
+defectuosa. Tenemos 400 libros y se quiere obtener la probabilidad de
+que 5 de ellos estén defectuosos. Aplicar la Ley de Poisson.
+
+k= 5 (nº de ocurrencias del evento).
+λ= 8 (nº de veces que se espera que ocurra el fenómeno → 2% RL 400).
+
++ ,  5  λ.
+,! ∙ L/J  8?
+
+5! ∙ L/S  0.092
+
+
+
+Leyes de Probabilidad 13
+
+Ley Hipergeométrica
+ Definición: Describe la distribución de frecuencias de una determinada característica que se obtiene al extraer
+
+sin reposición muestras aleatorias de una población finita.
+
+ Representación:   TU; U; 
+ Características:
+
+ Distribución de probabilidad discreta.
+ Solamente admite dos categorías (éxito y fracaso).
+ Se utiliza en muestreos SIN reposición.
+
+ Cuando el tamaño de la población es grande, la distribución hipergeométrica coincide con la Binomial.
+
+ Cálculo:
+VW!
+
+K!VWXK!∙
+VY!
+
++ ,  ZXK!VYXZ[K!
+V!
+
+Z!VXZ!
+Leyenda:
+
+ "  
+  ;   "  
+1  
+ ∙ \/ U: Total de sujetos en la población.
+\/ U: Sujetos tipo 1 (característica a analizar).
+
+U: Sujetos tipo 2.
+: Tamaño de la muestra.
+,: nº de ocurrencias del evento.
+
+: Proporción del evento en la población.
+
+
+
+Leyes de Probabilidad 14
+
+U! U !
+Ejemplo Ley Hipergeométrica + ,   ,! U  ,! ∙   ,! U
+
+   ] ,!
+U!
+
+! U  !
+Tenemos una población de 10 ♀ 3♀ +  6
+
+10 ∙ 5
+9 ∙ 4
+
+8  0.167
+personas compuesta por N1=6♀ y ♀
+N2= 4♂. Realizamos un muestro ♂
+aleatorio de tres personas sin ♀ +  6
+
+10 ∙ 5
+9 ∙ 4
+
+8  0.166
+reposición. ♀ 2♀
+
+♂ 0.166 ∙ 3  0.5
+♀
+
+6♀, 4♂
+♂
+
+♀ +  4 3
+10 ∙ 9 ∙ 6
+
+8  0.1
+Calcular la probabilidad de que no ♂ 1♀
+salga ninguna mujer en la muestra 0.1 ∙ 3  0.3
+
+♂
+(k=0). Obtener la Esperanza y la ♀
+Variancia de la variable aleatoria. ♂
+
+6! 4! ♂ 0♀ +  4
+10 ∙ 3
+
+9 ∙ 2
+8  0.033
+
++ ,  0   0! 6  0! ∙ 3  0! 4  3 ] 0! 6! 4!
+10!   0! ∙ 6! ∙
+
+103! ! ∙ 1!   1 ∙ 4  . 3
+3! 10  3! 3! 7! 120 0 0 3 Leyenda:
+
+∙ N1 nº de ♀ ; N2 nº de ♂.
+
+ "  
+  3 ∙ 0.6  1.8 N: Población total U  U ] U
+n: nº de personas elegidas.
+
+  "  
+ 1  
+ ∙ U  
+U  1  3 ∙ 0.6 1  0.6 ∙ 10  3
+
+10  1  0.56 k: nº de ♀ elegidas en la muestra.
+π: Proporción de ♀ en la población. 
+  U⁄U
+
+
+
+Leyes de Probabilidad 15
+
+U U
+Ejercicio Ley Hipergeométrica + ,   ,! U !
+
+  ,! ∙   ,! U!
+    ] ,!
+
+U!
+! U  !
+
+Utilizando la ley hipergeométrica en el muestro aleatorio del ejemplo anterior, y sabiendo que se eligen a tres
+personas sin reposición, calcular la probabilidad de obtener:
+ Una sola mujer: 6! ! Prob. de elegir 
+
+mujeres
+
++ ,  1   1! 6  1! ∙ 4
+3  1! 4  3 ] 1! 6! 4! 6 ∙ 6
+
+10!   1! ∙ 51!
+∙
+02! ! ∙ 2!   0 3 Mujeres
+
+3! 10  3! 3! ∙ 7! 120  .
+0,6
+0,5
+
+ Un solo hombre: 6! 0,4
+∙ 4!
+
+0,3
++ ,  2   2! 6  2! 3  2! 4  3 ] 2! 6! 4!
+
+  2! ∙ 4! ∙ 5 ∙ 4
+10! 101! ! ∙ 3!   1  0.5 0,2
+
+3! 10  3! 3! ∙ 7! 120
+0,1
+
+0
+ Tres mujeres o tres hombres: 6! ! 6! 0 1 2 3
+
++ ♀♀♀  + ,  3   3! 6  3! ∙ 4
+3  3! 4  3 ] 3!
+
+10!   3! ∙ 31!
+∙ 4!
+00! ! ∙ 4!   20 ∙ 1 167
+
+6! 3! 10  3! 3! ∙ 7! 120  0.
+6! !
+
++ 0! 6  0! ∙ 4!
+3  0! 4  3 ] 0!
+
+♂♂♂  + ,  0   10!   0! ∙ 6 1 ∙ 4
+1!
+
+∙ 4
+03! ! ∙ 1!   
+
+3! 10  3! 3! ∙ 7! 120  0.033
+
++♀♀♀ ∪ +♂♂♂) = +♀♀♀ + +♂♂♂) 0.167]0.033  0.2
+
+
+
+Leyes de Probabilidad 16
+
+Leyes de probabilidad en variables discretas
+Ley Distribución de Fórmulas
+
+probabilidad
+Binomial Muestro con reposición + ,  !
+
+,!   ,! ∙ 
+.1  
+/.
+$, 
+ Para 2 categorías
+
+ "  
+   ;     "  
+1  
+
+Poisson Muestro con reposición + "  ,  λ.
+
+,! ∙ L/J
+Aλ  
+ Requisitos:
+
+-Proporciones poco frecuentes  "   "  λ  
+
+(π≤0.05)
+-Muestras muy grandes(n≥100)
+
+Hiper U! U !
+Geométrica Muestro sin reposición + ,   ,! U  ,! ∙   ,! U
+
+   ] ,!
+U!
+
+TU; U;  Para 2 categorías ! U  !
+ "  
+    ;     "  
+1  
+ ∙ U  
+
+U  1
+
+Poblaciones Poblaciones infinitas
+finitas
+
+
+
+Leyes de Probabilidad 17
+
+Ley Normal o Distribución de Gauss
+
+ Para distribuciones continuas.
+ Casi cualquier distribución de probabilidad, se puede aproximar por una normal 
+
+bajo ciertas condiciones.
+ Características:
+
+ Tiene forma de campana.
+ Es simétrica alrededor de la media.
+ Es asintótica (no llega a tocar el eje de las X).
+ Media, mediana y la moda son iguales y 
+
+se localizan en el centro de la distribución.
+ El área total bajo la curva vale 1.
+
+ Representación:     ∈ Ua , b.
+ No existe una sola distribución de probabilidad normal, su número es ilimitado.
+
+g
++  D   c 1
+
+2
+b ∙ L/
+ ∙ d/eY
+
+fY
+dW
+
+
+
+Leyes de Probabilidad 18
+
+Distribución estándar normal o Ley Normal reducida
+
+ Todas las distribuciones normales pueden convertirse a la estándar, que 
+tiene media 0 y variancia 1 → U0 , 1.
+
+Transformación:
+ Transformar la variable  que siga una ley Ua , b en una variable h que
+
+siga una ley U 0 , 1 .
+Variable Z: → h  d/e
+
+f
+ Buscar la probabilidad de que se cumpla el valor h en la tabla T4a.
+
+ La tabla proporciona la probabilidad de que la variable aleatoria normal estandarizada
+tome valores h mayores o iguales a h	   →    + h D h	 .
+
+Tabla  +h D h	
+
+
+
+Leyes de Probabilidad 19
+
+Ejemplo
+ La distribución de peso de los alumnos en un Instituto sigue una ley N(50, 2.25).
+
+¿Cuál es la probabilidad de que al elegir a un alumno al azar pese 51 Kg?
+Peso: V. Cuantitativa:  51 ,i → 50.5 j 51.5 ,i.
+
+Datos: a  50,i  ;  b  2.25 →  b  2.25  1.5 ,i
+ Transformar los límites en valores z:
+
+ 	  50.5 ,i → h  d/e
+f  ?4.?/?4
+
+.?  0.33 + H 50.5
+
+ k  51.5 ,i → h  ?.?/?4
+.?  1
+
+ Obtener la probabilidad con la tabla. kg
+
+ + h D 0.33  0.3707
+ + h D 1  0.1587
+
+ Calcular probabilidad del área pedida:
+ + 50.5 l  l 51.5  + 0.33 l h l 1.00 
+
+0.3707  0.1587  0.2120 → 21.2%
+
+
+
+Leyes de Probabilidad 20
+
+Ejercicio
+ La distribución de peso de los alumnos en un Instituto sigue una ley N(50, 2.25).
+
+¿Cuál es la probabilidad de que al elegir a un alumno al azar pese entre 48 y 50 Kg?
+Peso: V. Cuantitativa:  48 a 50 ,i → 47.5 j 50.5 ,i.
+
+Datos: a  50,i  ;  b  2.25 →  b  2.25  1.5 ,i
+ Transformar los límites en valores z:
+
+ 	  47.5 ,i → h  d/e
+f  mn.?/?4
+
+.?  1.67
+ k  50.5 ,i → h  ?4.?/?4
+
+.?  0.33
+kg
+
+ Obtener la probabilidad con la tabla.
+ 	  47.5 ,i → h  1.67 → + h H 1.67  + h D 1.67  0.0475 
+ k  50.5 ,i → h  0.33    → + h D 0.33  0.3707
+
+ Calcular probabilidad del área pedida:
+ + 47.5 l  l 50.5  1  + h H 1.67  +h D 0.33 
+
+1  0.0475  0.3707  0.5818 → 58.2 %
+
+
+
+Leyes de Probabilidad 21
+
+Determinar un intervalo central de valores
+ El intervalo contiene la proporción 1  o central de los casos:
+
+p q rs/t ∙ u
+hv/: Valor de la ley normal reducida. Deja a su derecha una proporción α/2 de los casos.
+
+ Ejemplo: Calcular el intervalo que contiene el 50% central de la siguiente distribución:
+N(50,2.25).
+
+a q hv/ ∙ b  50 q 0.6745 ∙ 1.5  50 q 1.01 → 48.99 j 51.01
+
+α/2 0.25 0.10 0.05 0.025 0.005 0.0005
+1-α 50% 80% 90% 95% 99% 99.9%
+
+Zα/2 0.674 1.282 1.645 1.96 2.576 3.291
+
+
+
+Leyes de Probabilidad 22
+
+Aproximación Normal de la ley Binomial
+
+ Si las muestras son grandes, las probabilidades de la ley Binomial se 
+pueden calcular de forma bastante aproximada a la ley Normal.
+
+ Condiciones de muestra grande:    CG  w CE  G D I
+ Corrección de continuidad: q0.5 +xyz{. (permite tratar como continua una variable discreta).
+
+
+
+Asignatura/Tema 24
+
+Muchas gracias 
+por vuestra 
+atención.
