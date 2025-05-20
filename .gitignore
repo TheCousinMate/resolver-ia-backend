@@ -4,3 +4,10 @@
 *.env
 
 *.zip
+desktop.ini
+git-filter-repo.py
+git-filter-repo-2.47.0.tar.xz
+replacements.txt
+temp.txt
+.env.local
+git-filter-repo-2.47.0/
