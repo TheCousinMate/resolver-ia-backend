@@ -4,7 +4,7 @@ import os
 
 app = FastAPI()
 
-openai.api_key = os.getenv("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")
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
 @app.get("/")
 def status():
