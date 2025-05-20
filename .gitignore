@@ -1,13 +1,22 @@
-
+# Entorno y credenciales
 .env
-
+.env.local
 *.env
 
-*.zip
-desktop.ini
-git-filter-repo.py
-git-filter-repo-2.47.0.tar.xz
-replacements.txt
+# Archivos temporales y auxiliares
 temp.txt
-.env.local
+replacements.txt
+desktop.ini
+
+# Herramientas internas y utilidades de limpieza
+git-filter-repo.py
 git-filter-repo-2.47.0/
+git-filter-repo-2.47.0.tar.xz
+setup_api_key.py
+
+# Builds y artefactos exportados
+*.zip
+
+# Otros posibles residuos
+*.bak
+*.log
