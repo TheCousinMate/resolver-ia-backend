@@ -1,0 +1,12 @@
+.git
+*.zip
+*.ps1
+*.bat
+.env*
+Conflictos/
+Criptografía/
+Datos y Probabilidad/
+Estrategia/
+Ética y Comportamiento/
+Juegos y Toma de Decisiones/
+Otros/

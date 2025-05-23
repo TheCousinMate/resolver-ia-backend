@@ -1,4 +1,9 @@
 fastapi
-uvicorn
+uvicorn[standard]
 openai
 python-dotenv
+langchain
+langchain-community
+transformers
+datasets
+google-search-results
